@@ -8,7 +8,6 @@ API REST desarrollada con ASP.NET Core para la gestión de reservas de canchas d
 - C#
 - Entity Framework Core
 - SQL Server
-- JWT Authentication
 - Swagger
 
 ## ✨ Funcionalidades
